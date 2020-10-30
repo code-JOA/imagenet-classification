@@ -9,7 +9,13 @@
 
 
 
-# Note:  Beware of Git LFS 
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
+
+
+# Note:  Beware of Git LFS a.k.a git large files. 
 #### Before installation you should first download git lfs which deals with large files in github.
 
 
@@ -103,4 +109,17 @@ pip install -r requirements.txt
 
 ```python
 python app.py
+```
+
+```python
+
+```
+
+### Connect with me
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/joshua-owusu-ankomah-2b5a9898/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/code-JOA)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">]() [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/jay_rockerfella/)
+
+
+```python
+
 ```
