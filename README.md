@@ -9,15 +9,69 @@
 
 
 
+# Note:  Beware of Git LFS 
+#### Before installation you should first download git lfs which deals with large files in github.
+
+
+# Downloading Git LFS on mac
+
+```python
+brew install git-lfs
+```
+
+### Check if it works
+
+```python
+git-lfs
+```
+
+# Make sure you are now in the directory where you cloned this repo
+
+```python
+git init # if you havent initialised already probably you still havent at this point
+```
+
+```python
+git lfs install # installs lfs inside the repo
+```
+
+# This means git lfs should track all large csv files. You can relace it with file name.
+
+# You can also copy the path of the file as well eg "users/desktop/opencv2"
+
+```python
+git lfs track "*.csv" 
+```
+
+```python
+git add .gitattributes  # addes git attributes
+```
+
+```python
+git add .   # adds everything
+```
+
+```python
+git commit -m "add your message here"
+```
+
+```python
+git push
+```
+
+```python
+git pull
+```
+
+```python
+
+```
+
 ## Installation.
 The Code is written in Python 3.6. However ,version 3.7 is also supported by the modules. 
 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 
-
-
 # Create a new environment to avoid clashes or errors.
-
-
 + For example I can create a new environment called Blablabla with python version 3.6
 
 ```python
