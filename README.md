@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-# Imagenet classification
-=======
-# imagenet-classification
->>>>>>> 3089dc308ce1ff8d728e944844dd0988e3a5514e
+# Image classification project with Imagenet
+
 # Author : Joshua Owusu Ankomah
 
 # This project has been deployed with heroku. Moreover git add the vgg19 large files first to your github when creating the repo with git lfs
 
-<<<<<<< HEAD
 ![Google](https://img.shields.io/badge/Images_From-Google-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![requirements.txt](https://img.shields.io/badge/Library-requirements.txt-orange.svg)
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ .
@@ -128,7 +124,7 @@ python app.py
 ```python
 
 ```
-=======
 
 
->>>>>>> 3089dc308ce1ff8d728e944844dd0988e3a5514e
+
+
