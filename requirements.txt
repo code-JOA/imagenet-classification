@@ -119,7 +119,7 @@ mysql-connector-python-rf==2.2.2
 nb-conda==2.2.1
 nb-conda-kernels==2.2.3
 nba-api==1.1.8
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==5.0.6
 ndg-httpsclient==0.5.1
 networkx==2.4
